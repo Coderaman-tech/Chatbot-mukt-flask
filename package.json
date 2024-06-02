@@ -1,0 +1,19 @@
+{
+  "name": "@coderaman_tech/chatbot-nmba",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.py",
+  "scripts": {
+    "test": "python app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coderaman-tech/Chatbot-mukt-flask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coderaman-tech/Chatbot-mukt-flask/issues"
+  },
+  "homepage": "https://github.com/Coderaman-tech/Chatbot-mukt-flask#readme"
+}
