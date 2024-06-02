@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "*.py",
-            "use": "Coderaman-tech/ Chatbot-mukt-flask"
+            "use": "Coderaman-tech/Chatbot-mukt-flask"
         }
     ],
     "routes": [
