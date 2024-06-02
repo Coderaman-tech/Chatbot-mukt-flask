@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "*.py",
-            "use": "@coderaman_tech/chatbot-nmba"
+            "src": "./app.py",
+            "use": "@vercel/python"
         }
     ],
     "routes": [
         {
             "src": "(.*)",
-            "dest": "app.py"
+            "dest": "/"
         }
     ]
   }
